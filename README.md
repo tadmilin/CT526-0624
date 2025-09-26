@@ -2,7 +2,7 @@
 1.เปิด Terminal หรือ Command Prompt
 2.พิมพ์คำสั่งต่อไปนี้เพื่อ clone โปรเจค:
 
-git clone https://github.com/[your-username]/CT515-1.git
+git clone https://github.com/tadmilin/CT526-0624.git
 
 - วิธีการทำงาน main.py
 1.เปิด Terminal หรือ Command Prompt
