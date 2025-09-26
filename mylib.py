@@ -1,5 +1,6 @@
 def myfunc(a, b):
-   
-    return a * b  
+    return a * b
 
-print(myfunc("x",5))
+if __name__ == "__main__":
+
+    print(myfunc("x", 5)) 
